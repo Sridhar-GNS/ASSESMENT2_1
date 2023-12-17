@@ -1,0 +1,97 @@
+Element ClassFour has JavaDoc comment: 
+/**
+ * This is a class ClassFour.
+ * "This is a class ClassFour"
+ */
+
+
+Element One has JavaDoc comment: 
+/**
+     * This is a method One inside ClassFour.
+     */
+
+
+Element Three has JavaDoc comment: 
+/**
+     * This is a method Three inside ClassFour.
+     */
+
+
+Element Four has JavaDoc comment: 
+/**
+     * This is a method Four inside ClassFour.
+     */
+
+
+Element ClassOne has JavaDoc comment: 
+/**
+ * This is a class ClassOne.
+ *
+ * @ClassDocumentation "This is a class ClassOne"
+ */
+
+
+Element MethodOne has JavaDoc comment: 
+/**
+     * This is a method MethodOne inside ClassOne.
+     *
+     * @MethodDocumentation "This is a method MethodOne inside ClassOne"
+     */
+
+
+Element MethodTwo has JavaDoc comment: 
+/**
+     * This is a method MethodTwo inside ClassOne.
+     *
+     * @MethodDocumentation "This is a method MethodTwo inside ClassOne"
+     */
+
+
+Element MethodFour has JavaDoc comment: 
+/**
+     * This is a method MethodFour inside ClassOne.
+     *
+     * @MethodDocumentation "This is a method MethodFour inside ClassOne"
+     */
+
+
+Element ClassThree has JavaDoc comment: 
+/**
+ * This is a class ClassThree.
+ *
+ * @ClassDocumentation "This is a class ClassThree"
+ */
+
+
+Element Alpha has JavaDoc comment: 
+/**
+     * This is a method Alpha inside ClassThree.
+     *
+     * @MethodDocumentation "This is a method Alpha inside ClassThree"
+     */
+
+
+Element Beta has JavaDoc comment: 
+/**
+     * This is a method Beta inside ClassThree.
+     *
+     * @MethodDocumentation "This is a method Beta inside ClassThree"
+     */
+
+
+Element Gamma has JavaDoc comment: 
+/**
+     * This is a method Gamma inside ClassThree.
+     *
+     * @MethodDocumentation "This is a method Gamma inside ClassThree"
+     */
+
+
+Element Delta has JavaDoc comment: 
+/**
+     * This is a method Delta inside ClassThree.
+     *
+     * @MethodDocumentation "This is a method Delta inside ClassThree"
+     */
+
+

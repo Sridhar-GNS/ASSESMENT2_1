@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.doc.DocApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-17T15:05:59" hostname="BLR-4YSN763" time="1.03">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.doc.DocApplicationTests" time="1.03"/>
+  <system-out><![CDATA[20:35:58.697 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.example.doc.DocApplicationTests]: DocApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+20:35:58.795 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.example.doc.DocApplication for test class com.example.doc.DocApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.0)
+
+2023-12-17T20:35:59.188+05:30  INFO 22404 --- [    Test worker] com.example.doc.DocApplicationTests      : Starting DocApplicationTests using Java 17.0.9 with PID 22404 (started by guru.sridhar in C:\Gradle\doc\doc)
+2023-12-17T20:35:59.190+05:30  INFO 22404 --- [    Test worker] com.example.doc.DocApplicationTests      : No active profile set, falling back to 1 default profile: "default"
+2023-12-17T20:35:59.720+05:30  INFO 22404 --- [    Test worker] com.example.doc.DocApplicationTests      : Started DocApplicationTests in 0.758 seconds (process running for 2.038)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
